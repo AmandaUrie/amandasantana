@@ -1,0 +1,31 @@
+.textoPiscando{
+    color: greenyellow;
+    font-size: 1.5em;
+    margin: 5rem 0rem;
+    animation: piscaPisca 8s infinite;
+    
+}
+@keyframes piscaPisca{
+    0% {color: greenyellow}
+    10% {color: black}
+    15%{color: green}
+    20%{ color: greenyellow}
+    25%{color: black}
+    35%{color: green}
+    40%{color: greenyellow}
+    45%{color: black}
+    50%{color: green}
+    60%{color: greenyellow}
+    65%{color: black}
+    70%{color: green}
+    75%{color: greenyellow}
+    80%{color: black}
+    85%{color: green}
+    90%{color: greenyellow}
+    95%{color: black}
+    100%{color: greenyellow}
+
+    
+
+
+}

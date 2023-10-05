@@ -1,0 +1,13 @@
+footer{
+    background-color: rgb(5, 46, 5);
+    padding: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer span{
+    font-size: 0,5em;
+    font-weight: 50;
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web';
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+
+    background-color: black;
+    color: green;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: greenyellow;
+    transition: 0.2s ease-in-out;
+}
